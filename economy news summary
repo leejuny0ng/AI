@@ -494,8 +494,8 @@
         "        if query == 'quit':\n",
         "            print('종료합니다.')\n",
         "            break\n",
-        "        client_id = \"XyeQvys3L4YHfDlDXQu3\"\n",
-        "        client_secret = \"Igk0kU1ThL\"\n",
+        "        client_id = \"id\"\n",
+        "        client_secret = \"pwd\"\n",
         "        result = get_naver_news(query, client_id, client_secret)\n",
         "        print(result)"
       ]
